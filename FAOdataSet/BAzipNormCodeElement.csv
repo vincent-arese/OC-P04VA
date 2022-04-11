@@ -1,0 +1,19 @@
+﻿CodeElement;Element;Unité;El
+511;Population totale;1000 personnes;PopTotale
+645;Disponibilité alimentaire en quantité (kg/personne/an);kg (kg/personne/an);DispoAlimkgPersAn
+664;Disponibilité alimentaire (Kcal/personne/jour);Kcal/personne/jour;DispoAlimkCalPersJour
+674;Disponibilité de protéines en quantité (g/personne/jour);g/personne/jour;DispoProteinesgPersJour
+684;Disponibilité de matière grasse en quantité (g/personne/jour);g/personne/jour;DispoMatGrassegPersJour
+5072;Variation de stock;Milliers de tonnes;VarStock_mt
+5123;Pertes;Milliers de tonnes;Pertes_mt
+5131;Traitement;Milliers de tonnes;Traitement_mt
+5142;Nourriture;Milliers de tonnes;Nourriture_mt
+5154;Autres utilisations (non alimentaire);Milliers de tonnes;NonAlim_mt
+5170;Résidus;Milliers de tonnes;Résidus_mt
+5171;Alimentation pour touristes;Milliers de tonnes;AlimTouristes_mt
+5301;Disponibilité intérieure;Milliers de tonnes;DispoInt_mt
+5511;Production;Milliers de tonnes;Production
+5521;Aliments pour animaux;Milliers de tonnes;AlimAni_mt
+5527;Semences;Milliers de tonnes;Semences_mt
+5611;Importations - Quantité;Milliers de tonnes;Importations _mt
+5911;Exportations - Quantité;Milliers de tonnes;Export_mt

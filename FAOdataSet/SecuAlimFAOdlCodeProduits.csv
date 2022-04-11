@@ -1,0 +1,10 @@
+﻿CodeProduit;Produit;Unité;Symbole;Prod
+22000;Disponibilité alimentaire par habitant utilisée dans l'estimation de la prévalence de la sous-alimentation (kcal/personne/jour) (moyenne sur 3 ans);Kcal/personne/jour;Estimation FAO;DispoAlimKcalPersJour
+21013;Disponibilités protéiques moyennes (g/personne/jour) (moyenne sur 3 ans);g/personne/jour;Estimation FAO;DispoProtgPersJour
+21014;Disponibilités protéines moyennes d’origine animale (g/personne/jour) (moyenne sur 3 ans);g/personne/jour;Estimation FAO;DispoProtAnimalegPersJour
+210011;Nombre de personnes sous-alimentées (millions) (moyenne sur 3 ans);millions;Estimation FAO;SousAlimMpers
+210071;Nombre de personnes en situation d’insécurité alimentaire grave (millions) (moyenne sur 3 ans);millions;Estimation FAO;InsecuAlimGraveMpers
+210081;Nombre de personnes en situation d’insécurité alimentaire modérée ou grave (millions) (moyenne sur 3 ans);millions;Estimation FAO;InsecuAlimModéréMpers
+21056;Besoins énergétiques alimentaires minimaux (kcal/personne/jour);Kcal/personne/jour;Estimation FAO;MDERminkcalPersJour
+21057;Besoins énergétiques alimentaires moyens (kcal/personne/jour);Kcal/personne/jour;Estimation FAO;ADERmoykcalPersJour
+21061;Disponibilités moyennes de matière grasse (g/personne/jour) (moyenne sur 3 ans);g/personne/jour;Estimation FAO;DispoMastGrassegPersJour
